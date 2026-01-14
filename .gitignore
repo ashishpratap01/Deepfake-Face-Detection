@@ -1,0 +1,12 @@
+# Dataset
+split_dataset/
+
+# Videos
+*.mp4
+*.avi
+
+# Trained models
+*video_classification_model.h5
+
+# Cache
+__pycache__/
